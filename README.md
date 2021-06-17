@@ -1,2 +1,2 @@
-# movies-spring-boot-api
-It's swagger based API for movies
+# movies-angular-ui
+UI for movies
